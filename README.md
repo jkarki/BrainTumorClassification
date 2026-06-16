@@ -43,6 +43,18 @@ MRI brain scan images categorized into 4 classes:
 
 Data was loaded and processed in Google Colab — not included in this repo due to size.
 
+## Repository Structure
+
+```
+BrainTumorClassification/
+├── notebooks/
+│   └── UTKfinal_brain_tumor.ipynb    # Full group notebook
+├── presentation/
+│   └── UTKfinal presentation.pdf     # Project slides
+└── data/
+    └── README.md                     # Instructions for downloading the image datasets
+```
+
 ## Tools
 
 - **Python:** NumPy, scikit-learn, PyTorch, TensorFlow/Keras, Matplotlib
