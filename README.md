@@ -20,6 +20,8 @@ I was responsible for two parts of the pipeline:
 - Trained a logistic regression classifier on top of those features using 5-fold cross-validation
 - This approach tested whether classical ML on deep features could compete with full fine-tuning
 
+I also helped out with the other models but my main responsiblities were the former
+
 ## Models & Results (YES/NO Tumor Detection)
 
 | Model | Accuracy | Precision | Recall | F1 |
